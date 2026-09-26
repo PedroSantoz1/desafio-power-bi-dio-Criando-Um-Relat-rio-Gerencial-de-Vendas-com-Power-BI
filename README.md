@@ -68,4 +68,4 @@ Com este projeto foi possível praticar conceitos importantes do Power BI, como:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[SEU NOME]** como parte da formação em Power BI da **DIO**.
+Desenvolvido por **[Pedro Henrique]** como parte da formação em Power BI da **DIO**.
