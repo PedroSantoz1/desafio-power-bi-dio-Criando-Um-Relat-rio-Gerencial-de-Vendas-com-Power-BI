@@ -32,8 +32,6 @@ Durante o projeto foram utilizados:
 
 - Microsoft Power BI
 - Power BI Service
-- DAX
-- Git
 - GitHub
 
 ## 📂 Estrutura do repositório
