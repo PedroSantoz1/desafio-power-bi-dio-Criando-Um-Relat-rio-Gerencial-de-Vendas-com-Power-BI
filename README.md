@@ -34,8 +34,6 @@ Durante o projeto foram utilizados:
 ```text
 📦 power-bi-financial-report
 │
-├── 📁 images
-│   └── dashboard.png
 │
 ├── 📊 relatorio_financial.pbix
 │
