@@ -4,15 +4,10 @@ Projeto desenvolvido como parte de um desafio prático da **DIO**, utilizando a 
 
 O objetivo foi criar um relatório interativo e organizado, aplicando conceitos de visualização de dados, navegação entre páginas e análise de indicadores.
 
-## 📸 Dashboard
-
-![Dashboard Power BI](./images/dashboard.png)
-
-> Adicione aqui uma imagem ou print da página principal do relatório.
 
 ## 🔗 Acesse o relatório
 
-👉 **[Clique aqui para visualizar o relatório no Power BI](COLE_AQUI_O_LINK_DO_POWER_BI)**
+👉 **[Clique aqui para visualizar o relatório no Power BI](relatorio_financial_power_bi.pbix)**
 
 ## 🎯 Objetivo do projeto
 
